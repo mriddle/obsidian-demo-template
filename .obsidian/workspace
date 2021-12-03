@@ -1,0 +1,131 @@
+{
+  "main": {
+    "id": "b203f58ecd48fe21",
+    "type": "split",
+    "children": [
+      {
+        "id": "a1d648b007c29233",
+        "type": "leaf",
+        "state": {
+          "type": "empty",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "61ca87f3f0681a9e",
+    "type": "split",
+    "children": [
+      {
+        "id": "91194b83fc56b150",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1c4c603bb9ac09c8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "ada22070bae51ce5",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "588ce80b181afa24",
+    "type": "split",
+    "children": [
+      {
+        "id": "d4833cc9c4f0faa9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca2d2712d986685a",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "ca983c2f0f246982",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "501842ac8db10b71",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "0a070e3f56eb86d7",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "d4661db588370c9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "a1d648b007c29233",
+  "lastOpenFiles": [
+    "zettelkasten/2021-W48.md",
+    "zettelkasten/2021-12-03.md",
+    "README.md",
+    "templates/event.md",
+    "reference notes/Zettelkasten.md",
+    "zettelkasten/TODO.md",
+    "templates/1on1.md",
+    "templates/retro.md",
+    "templates/quarterly.md",
+    "templates/yearly.md"
+  ]
+}
